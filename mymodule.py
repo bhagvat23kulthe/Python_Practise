@@ -5,7 +5,7 @@ greet("Bhagvat")
 greet("Mihtun")
 greet("Aashish")
 
-x = "Teri maa ki choomt"
+x = "We are Indians"
 
 
 person1 = {
@@ -14,5 +14,5 @@ person1 = {
     "country" : "Norway"
 }
 
-p = ("Teri ma ki choomt")
+p = ("Hello Indians")
 print(p)
